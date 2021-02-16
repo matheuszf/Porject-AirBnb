@@ -1,5 +1,11 @@
 # Porject-AirBnb
+
+## Data
+
+https://public.tableau.com/s/sites/default/files/media/airbnb.xlsx
+
 ## Introduction
+
 Analysis  of Airbnb dataset of New York City to draw interesting insights and address some questions.
 
 ## Questions
@@ -13,4 +19,16 @@ Analysis  of Airbnb dataset of New York City to draw interesting insights and ad
 - Which are the top 3 neighborhoods based on Average Price of all available list of Room Types?
 
 - What is the most popular type of room?
+
+## Visualization Tool
+
+Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
+
+### Tableau story link
+
+https://public.tableau.com/profile/matheus.zavagli#!/vizhome/ProjetoAirbnb/Story?publish=yes
+
+## Target Audience
+
+The insights drawn could be helpful for both Hosts and Users. Hosts- People putting up their place for rental purpose. Users- People searching for accommodation.
 
