@@ -1,5 +1,5 @@
 ![alt text](https://www.melhoresdestinos.com.br/wp-content/uploads/2015/11/Dicas-Airbnb.jpg)
-# Porject-AirBnb
+# Porject AirBnb
 
 ## Data
 
@@ -7,7 +7,7 @@ https://public.tableau.com/s/sites/default/files/media/airbnb.xlsx
 
 ## Introduction
 
-Analysis  of Airbnb dataset of New York City to draw interesting insights and address some questions.
+Analysis of Airbnb dataset of New York City to draw interesting insights and address some questions.
 
 ## Questions
 
@@ -28,6 +28,8 @@ The insights drawn could be helpful for both Hosts and Users. Hosts putting up t
 ## Visualization Tool
 
 Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
+
+![alt text](C:\Users\Matheus Zavagli\Desktop\Capturar.JPG)
 
 ### Tableau story link
 
