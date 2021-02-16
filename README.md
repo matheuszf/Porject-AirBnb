@@ -20,6 +20,10 @@ Analysis  of Airbnb dataset of New York City to draw interesting insights and ad
 
 - What is the most popular type of room?
 
+## Target Audience
+
+The insights drawn could be helpful for both Hosts and Users. Hosts putting up their place for rental purpose. Users searching for accommodation.
+
 ## Visualization Tool
 
 Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
@@ -28,7 +32,4 @@ Tableau has been used as the Data Visualization tool as it is a very powerful, s
 
 https://public.tableau.com/profile/matheus.zavagli#!/vizhome/ProjetoAirbnb/Story?publish=yes
 
-## Target Audience
-
-The insights drawn could be helpful for both Hosts and Users. Hosts- People putting up their place for rental purpose. Users- People searching for accommodation.
 
