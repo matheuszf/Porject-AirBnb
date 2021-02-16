@@ -29,7 +29,7 @@ The insights drawn could be helpful for both Hosts and Users. Hosts putting up t
 
 Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
 
-![alt text](C:\Users\Matheus Zavagli\Desktop\Capturar.JPG?raw=true)
+![alt text](https://github.com/matheuszf/Porject-AirBnb/blob/main/Capturar.JPG)
 
 ### Tableau story link
 
