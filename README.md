@@ -33,9 +33,8 @@ Tableau has been used as the Data Visualization tool as it is a very powerful, s
 
 ### Tableau story link
 
-https://public.tableau.com/profile/matheus.zavagli#!/vizhome/ProjetoFinalRestairantesSP/Story1?publish=yes
+https://public.tableau.com/profile/matheus.zavagli#!/vizhome/ProjetoAirbnb/Story?publish=yes
 
-# Conclusão
 
 
 
